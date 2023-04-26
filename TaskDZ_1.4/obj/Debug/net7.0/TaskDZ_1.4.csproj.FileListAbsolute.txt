@@ -1,0 +1,15 @@
+C:\Users\Artemka\Desktop\Разработчик\DZ_C\TaskDZ_1.4\bin\Debug\net7.0\TaskDZ_1.4.exe
+C:\Users\Artemka\Desktop\Разработчик\DZ_C\TaskDZ_1.4\bin\Debug\net7.0\TaskDZ_1.4.deps.json
+C:\Users\Artemka\Desktop\Разработчик\DZ_C\TaskDZ_1.4\bin\Debug\net7.0\TaskDZ_1.4.runtimeconfig.json
+C:\Users\Artemka\Desktop\Разработчик\DZ_C\TaskDZ_1.4\bin\Debug\net7.0\TaskDZ_1.4.dll
+C:\Users\Artemka\Desktop\Разработчик\DZ_C\TaskDZ_1.4\bin\Debug\net7.0\TaskDZ_1.4.pdb
+C:\Users\Artemka\Desktop\Разработчик\DZ_C\TaskDZ_1.4\obj\Debug\net7.0\TaskDZ_1.4.csproj.AssemblyReference.cache
+C:\Users\Artemka\Desktop\Разработчик\DZ_C\TaskDZ_1.4\obj\Debug\net7.0\TaskDZ_1.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artemka\Desktop\Разработчик\DZ_C\TaskDZ_1.4\obj\Debug\net7.0\TaskDZ_1.4.AssemblyInfoInputs.cache
+C:\Users\Artemka\Desktop\Разработчик\DZ_C\TaskDZ_1.4\obj\Debug\net7.0\TaskDZ_1.4.AssemblyInfo.cs
+C:\Users\Artemka\Desktop\Разработчик\DZ_C\TaskDZ_1.4\obj\Debug\net7.0\TaskDZ_1.4.csproj.CoreCompileInputs.cache
+C:\Users\Artemka\Desktop\Разработчик\DZ_C\TaskDZ_1.4\obj\Debug\net7.0\TaskDZ_1.4.dll
+C:\Users\Artemka\Desktop\Разработчик\DZ_C\TaskDZ_1.4\obj\Debug\net7.0\refint\TaskDZ_1.4.dll
+C:\Users\Artemka\Desktop\Разработчик\DZ_C\TaskDZ_1.4\obj\Debug\net7.0\TaskDZ_1.4.pdb
+C:\Users\Artemka\Desktop\Разработчик\DZ_C\TaskDZ_1.4\obj\Debug\net7.0\TaskDZ_1.4.genruntimeconfig.cache
+C:\Users\Artemka\Desktop\Разработчик\DZ_C\TaskDZ_1.4\obj\Debug\net7.0\ref\TaskDZ_1.4.dll
