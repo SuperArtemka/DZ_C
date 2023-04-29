@@ -1,0 +1,15 @@
+C:\Users\Artemka\Desktop\Разработчик\DZ_C\TaskDZ_3.1\obj\Debug\net7.0\TaskDZ_3.1.csproj.AssemblyReference.cache
+C:\Users\Artemka\Desktop\Разработчик\DZ_C\TaskDZ_3.1\obj\Debug\net7.0\TaskDZ_3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artemka\Desktop\Разработчик\DZ_C\TaskDZ_3.1\obj\Debug\net7.0\TaskDZ_3.1.AssemblyInfoInputs.cache
+C:\Users\Artemka\Desktop\Разработчик\DZ_C\TaskDZ_3.1\obj\Debug\net7.0\TaskDZ_3.1.AssemblyInfo.cs
+C:\Users\Artemka\Desktop\Разработчик\DZ_C\TaskDZ_3.1\obj\Debug\net7.0\TaskDZ_3.1.csproj.CoreCompileInputs.cache
+C:\Users\Artemka\Desktop\Разработчик\DZ_C\TaskDZ_3.1\bin\Debug\net7.0\TaskDZ_3.1.exe
+C:\Users\Artemka\Desktop\Разработчик\DZ_C\TaskDZ_3.1\bin\Debug\net7.0\TaskDZ_3.1.deps.json
+C:\Users\Artemka\Desktop\Разработчик\DZ_C\TaskDZ_3.1\bin\Debug\net7.0\TaskDZ_3.1.runtimeconfig.json
+C:\Users\Artemka\Desktop\Разработчик\DZ_C\TaskDZ_3.1\bin\Debug\net7.0\TaskDZ_3.1.dll
+C:\Users\Artemka\Desktop\Разработчик\DZ_C\TaskDZ_3.1\bin\Debug\net7.0\TaskDZ_3.1.pdb
+C:\Users\Artemka\Desktop\Разработчик\DZ_C\TaskDZ_3.1\obj\Debug\net7.0\TaskDZ_3.1.dll
+C:\Users\Artemka\Desktop\Разработчик\DZ_C\TaskDZ_3.1\obj\Debug\net7.0\refint\TaskDZ_3.1.dll
+C:\Users\Artemka\Desktop\Разработчик\DZ_C\TaskDZ_3.1\obj\Debug\net7.0\TaskDZ_3.1.pdb
+C:\Users\Artemka\Desktop\Разработчик\DZ_C\TaskDZ_3.1\obj\Debug\net7.0\TaskDZ_3.1.genruntimeconfig.cache
+C:\Users\Artemka\Desktop\Разработчик\DZ_C\TaskDZ_3.1\obj\Debug\net7.0\ref\TaskDZ_3.1.dll
