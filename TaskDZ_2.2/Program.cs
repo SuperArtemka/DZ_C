@@ -3,7 +3,7 @@ Console.WriteLine("Введите трехзначное число : ");
 string number = Console.ReadLine();
 int numberLenght = number.Length;
 
-if (numberLenght > 2)
+if (numberLenght >= 2)
 {
     Console.WriteLine($"Третья цифра этого числа это: {number[2]}");
 }
