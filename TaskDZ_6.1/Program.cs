@@ -1,5 +1,6 @@
 ﻿// Количество четных элементов массива введенных с клавиатуры
 
+
 int[] FillArrayNumber(int size)
 {
 int[] arr = new int[size];
