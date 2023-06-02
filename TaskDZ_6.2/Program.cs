@@ -1,6 +1,5 @@
 ﻿// Пересечение двух прямых
 
-
 System.Console.WriteLine("Введите число b1: ");
 double b1 = Convert.ToDouble(Console.ReadLine());
 System.Console.WriteLine("Введите число k1: ");
