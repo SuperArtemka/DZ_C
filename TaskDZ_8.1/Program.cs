@@ -1,5 +1,4 @@
-﻿// Среднее арифметическое для каждого столбца массива
-
+﻿// Программа, которая упорядочит по убыванию элементы каждой строки двумерного массива.
 
 void FillMatrixWhithRandomNumbers(int[,] matrix)
 {
@@ -25,17 +24,25 @@ void PrintMatrix(int[,] matrix)
     }
 }
 
-void Average(int[,] matrix)
+void OrderedMatrix(int[,] matrix)
 {
-    for (int j = 0; j < matrix.GetLength(1); j++)
+    int temp = 0;
+    for (int i = 0; i < matrix.GetLength(0); i++)
     {
-        double sum = 0;
-        for (int i = 0; i < matrix.GetLength(0); i++)
+        for (int j = 0; j < matrix.GetLength(1); j++)
         {
-            sum += matrix[i, j];
+            for (int x = 0; x < matrix.GetLength(1) - 1; x++)
+
+                if (matrix[i, x] < matrix[i, x+1])
+                {
+                    temp = matrix[i, x+1];
+                    matrix[i, x+1] = matrix[i, x];
+                    matrix[i, x] = temp;
+                }
+
         }
-        System.Console.WriteLine($"Среднее арифметическое столбца: {sum / matrix.GetLength(0)}");
     }
+
 }
 
 System.Console.Write("Введите количество строк массива: ");
@@ -43,6 +50,9 @@ int m = Convert.ToInt32(Console.ReadLine());
 System.Console.Write("Введите количество столбцов массива: ");
 int n = Convert.ToInt32(Console.ReadLine());
 int[,] matrix = new int[m, n];
+
 FillMatrixWhithRandomNumbers(matrix);
 PrintMatrix(matrix);
-Average(matrix);
+System.Console.WriteLine();
+OrderedMatrix(matrix);
+PrintMatrix(matrix);
